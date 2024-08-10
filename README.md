@@ -11,3 +11,7 @@ repository provides a complete guide for installing and configuring NGINX on Red
 6. Firewall Configuration: Setting up the firewall to allow only HTTPS traffic, enhancing security.
 7. Troubleshooting and Tips: Practical advice and common solutions for any issues encountered during setup.
 8. This guide is ideal for system administrators and DevOps professionals looking to securely deploy Nexus on RHEL using NGINX as an SSL termination point.
+
+9. # Install NGINX
+10. Follow the guide on the repository below to install NGINX before configuring Nexus to use NGINX for SSL traffic Termination
+# https://github.com/oseghalep/NGINX-Install-RHEL
